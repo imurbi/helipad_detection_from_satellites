@@ -1,0 +1,8 @@
+Please following sources when using this repo for your work, following sources provide detail overview of Rowan University's Helipad Detection project for FAA
+
+Specht, David, "Helipad detection from satellite imagery using convolutional neural networks" (2021). Theses and Dissertations. 2927.
+https://rdw.rowan.edu/etd/2927
+
+
+Nasir, Abdullah, "DETECTION OF ROTORCRAFT LANDING SITES: AN AI-BASED APPROACH" (2022). Theses and Dissertations. 3040.
+https://rdw.rowan.edu/etd/3040

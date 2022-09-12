@@ -1,0 +1,7 @@
+file_name, visual_check(happens in 2nd column), lat_ind, lon_ind, set_name
+Annotated FAA Dataset.csv, 1, 9, 10, FA1
+Hospital_Heliports.csv, 1, 3, 2, CAH
+new_heliports.csv, 1, 9, 10, FA2
+Iowa_helipads.csv, 1, 2, 6, IOD
+Helipad_info_Maine.csv, 1, 3, 4, MAN
+CA-AL-AR.csv, //not checked, 35, 36, LZC
